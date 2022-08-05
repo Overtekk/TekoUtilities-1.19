@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tekoutilities:teko_block"
+    }
+  ],
+  "result": {
+    "item": "tekoutilities:teko_ingot",
+    "count": 9
+  }
+}

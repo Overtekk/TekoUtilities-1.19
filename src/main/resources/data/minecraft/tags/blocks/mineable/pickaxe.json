@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tekoutilities:teko_block",
+    "tekoutilities:teko_ore",
+    "tekoutilities:deepslate_teko_ore"
+  ]
+}

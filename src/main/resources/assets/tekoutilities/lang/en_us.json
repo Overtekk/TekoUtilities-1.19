@@ -1,0 +1,21 @@
+{
+  "item.tekoutilities.teko_ingot": "Teko Ingot",
+  "item.tekoutilities.teko_scrap": "Teko Scrap",
+  "item.tekoutilities.obsidian_stick": "Obsidian Stick",
+  "item.tekoutilities.teko_sword": "Teko Sword",
+  "item.tekoutilities.teko_sword_part": "Teko Sword Part",
+  "item.tekoutilities.teko_pickaxe": "Teko Pickaxe",
+  "item.tekoutilities.teko_pickaxe_part": "Teko Pickaxe Part",
+  "item.tekoutilities.teko_axe": "Teko Axe",
+  "item.tekoutilities.teko_axe_part": "Teko Axe Part",
+  "item.tekoutilities.teko_shovel": "Teko Shovel",
+  "item.tekoutilities.teko_shovel_part": "Teko Shovel Part",
+  "item.tekoutilities.teko_hoe": "Teko Hoe",
+  "item.tekoutilities.teko_hoe_part": "Teko Hoe Part",
+
+  "block.tekoutilities.teko_block": "Teko Block",
+  "block.tekoutilities.teko_ore": "Teko Ore",
+  "block.tekoutilities.deepslate_teko_ore": "Deepslate Teko Ore",
+
+  "itemGroup.tekoutilitiestab": "Teko Utilities"
+}

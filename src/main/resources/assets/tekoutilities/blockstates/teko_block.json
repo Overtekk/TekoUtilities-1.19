@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tekoutilities:block/teko_block" }
+  }
+}

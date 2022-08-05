@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "tekoutilities:obsidian_stick"
+  },
+  "base": {
+    "item": "tekoutilities:teko_hoe_part"
+  },
+  "result": {
+    "item": "tekoutilities:teko_hoe"
+  }
+}
