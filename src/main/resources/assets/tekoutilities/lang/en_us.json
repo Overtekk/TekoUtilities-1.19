@@ -2,16 +2,29 @@
   "item.tekoutilities.teko_ingot": "Teko Ingot",
   "item.tekoutilities.teko_scrap": "Teko Scrap",
   "item.tekoutilities.obsidian_stick": "Obsidian Stick",
+
   "item.tekoutilities.teko_sword": "Teko Sword",
-  "item.tekoutilities.teko_sword_part": "Teko Sword Part",
   "item.tekoutilities.teko_pickaxe": "Teko Pickaxe",
-  "item.tekoutilities.teko_pickaxe_part": "Teko Pickaxe Part",
   "item.tekoutilities.teko_axe": "Teko Axe",
-  "item.tekoutilities.teko_axe_part": "Teko Axe Part",
   "item.tekoutilities.teko_shovel": "Teko Shovel",
-  "item.tekoutilities.teko_shovel_part": "Teko Shovel Part",
   "item.tekoutilities.teko_hoe": "Teko Hoe",
+
+  "item.tekoutilities.teko_sword_part": "Teko Sword Part",
+  "item.tekoutilities.teko_pickaxe_part": "Teko Pickaxe Part",
+  "item.tekoutilities.teko_axe_part": "Teko Axe Part",
+  "item.tekoutilities.teko_shovel_part": "Teko Shovel Part",
   "item.tekoutilities.teko_hoe_part": "Teko Hoe Part",
+
+  "item.tekoutilities.teko_helmet": "Teko Helmet",
+  "item.tekoutilities.teko_chestplate": "Teko Chestplate",
+  "item.tekoutilities.teko_leggings": "Teko Leggings",
+  "item.tekoutilities.teko_boots": "Teko Boots",
+
+  "item.tekoutilities.chocolate": "Chocolate",
+  "item.tekoutilities.chocolate_glass": "Chocolate Glass",
+  "item.tekoutilities.hot_chocolate": "Hot Chocolate",
+  "item.tekoutilities.milk_glass": "Milk Glass",
+  "item.tekoutilities.hot_milk": "Hot Milk",
 
   "block.tekoutilities.teko_block": "Teko Block",
   "block.tekoutilities.teko_ore": "Teko Ore",

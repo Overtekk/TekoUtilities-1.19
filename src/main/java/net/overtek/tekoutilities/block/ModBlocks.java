@@ -22,15 +22,15 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> TEKO_BLOCK = registerBlock("teko_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(18f).requiresCorrectToolForDrops()), ModCreativeModeTab.tekoutilitiestab);
+                    .strength(18f).requiresCorrectToolForDrops()), ModCreativeModeTab.TEKOUTILITIES_TAB);
 
     public static final RegistryObject<Block> TEKO_ORE = registerBlock("teko_ore",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(40f).requiresCorrectToolForDrops()), ModCreativeModeTab.tekoutilitiestab);
+                    .strength(40f).requiresCorrectToolForDrops()), ModCreativeModeTab.TEKOUTILITIES_TAB);
 
     public static final RegistryObject<Block> DEEPSLATE_TEKO_ORE = registerBlock("deepslate_teko_ore",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(45f).requiresCorrectToolForDrops()), ModCreativeModeTab.tekoutilitiestab);
+                    .strength(45f).requiresCorrectToolForDrops()), ModCreativeModeTab.TEKOUTILITIES_TAB);
 
 
     private static <T extends Block>RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab) {

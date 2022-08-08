@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 150,
+  "experience": 0.01,
+  "ingredient": {
+    "item": "minecraft:cocoa_beans"
+  },
+  "result": "tekoutilities:chocolate"
+}

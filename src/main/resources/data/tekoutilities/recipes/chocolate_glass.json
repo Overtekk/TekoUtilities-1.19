@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "tekoutilities:chocolate"
+    },
+    {
+      "item": "tekoutilities:milk_glass"
+    }
+  ],
+  "result": {
+    "item": "tekoutilities:chocolate_glass"
+  }
+}

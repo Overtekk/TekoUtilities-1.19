@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "cookingtime": 50,
+  "experience": 0.01,
+  "ingredient": {
+    "item": "minecraft:cocoa_beans"
+  },
+  "result": "tekoutilities:chocolate"
+}
