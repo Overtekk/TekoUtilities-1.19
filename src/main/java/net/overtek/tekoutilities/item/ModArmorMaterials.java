@@ -51,6 +51,7 @@ public enum ModArmorMaterials implements ArmorMaterial {
         return this.sound;
     }
 
+    @Override
     public Ingredient getRepairIngredient() {
         return this.repairIngredient.get();
     }
